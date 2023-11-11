@@ -1,0 +1,46 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Lora', serif;
+
+
+}
+
+
+section{
+margin-bottom: 5rem;
+
+}
+h2{
+font-size: 3.5rem;
+}
+i{
+font-size: 6rem;
+margin-bottom: 1rem;
+color: black;
+
+}
+p{
+margin: 1rem;
+line-height: 2rem;
+
+}
+.section-2{
+
+
+
+}
+#contact-us{
+margin-top: 10rem;
+background-color: gray;
+height: 90vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+card{
+margin: 2rem;
+width: 50vw;
+}
